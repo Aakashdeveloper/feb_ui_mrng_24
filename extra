@@ -1,0 +1,34 @@
+https://code.visualstudio.com/ > install
+https://nodejs.org/en > Install
+https://www.git-scm.com/downloads > Install
+https://github.com/> Signup
+
+HTML> Raw Strcuture
+CSS> Look and feel
+Bootstrap> Responsive Design
+Javascript> Logic Part
+
+// Vs code extension
+> Live Server
+> vscode-icons
+> githistory
+> gitlens
+> spellCheck
+> Tab nine
+
+html > Main Tag in the website
+head > All the linking Css, javascript and title
+body > All content that you can see
+
+block level
+> Always start from new line
+> take whole width of the screen
+> p div
+
+inline
+> Start in the same line
+> only take the width according to content
+> span a
+
+
+
