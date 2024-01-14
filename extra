@@ -32,3 +32,51 @@ inline
 
 
 
+Name
+Something about u
+Your Image
+Skill
+Hobbies
+Map
+Footer
+Social Link
+
+https://www.w3schools.com/tags/tag_hn.asp
+
+//css
+inline
+styletag
+stylesheet
+
+inline> styletag > stylesheet
+
+//inline
+{
+    width:400px;
+    background:green
+}
+
+//styletag
+{
+    height:300px;
+    background:orange;
+    font-size:30px;    
+}
+
+//stylesheet
+{
+    height:400px;
+    width:500px;
+    border:1px solid;
+    z-index:10
+}
+
+{
+    width:400px;
+    background:green;
+     height:300px;
+     font-size:30px;  
+     border:1px solid;
+    z-index:10  
+
+}
