@@ -80,3 +80,18 @@ inline> styletag > stylesheet
     z-index:10  
 
 }
+
+//////////
+TagName
+> When you want to target by name
+Id
+> #
+> When you want to target something unique
+
+Class
+> .
+> When you want to target group of element with same property
+
+
+position:absolute
+position:relative

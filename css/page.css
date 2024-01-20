@@ -1,0 +1,55 @@
+
+ 
+h1{
+    text-align:center
+}
+.mainDiv{
+    display: inline-block;
+}
+            
+.card{
+    height:400px;
+    background-color: #c78167;
+    width:20%;
+    float:left;
+    margin:2%;
+    overflow: scroll;
+}
+#subHeading{
+    text-align: center;
+}
+.myBlue{
+    background-color: #78b3d1;
+}
+#skyblue{
+    background-color: rgb(135, 190, 209);
+}
+.mybrown{
+    background-color: #c1b09c;
+}
+.card img{
+    width:100%;
+    height:200px
+}
+
+#hCard{
+    height:250px;
+    width:80%;
+    margin-left: 10%;
+    border:5px solid gray
+}
+
+.left{
+    float: left;
+    width:25%;
+}
+
+.left > img{
+    height:100%;
+    width:100%;
+}
+.right{
+    float: left;
+    width:60%;
+    margin-left: 5%;
+}
