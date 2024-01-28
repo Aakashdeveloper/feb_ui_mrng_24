@@ -121,3 +121,30 @@ md > 768px
 lg > 992px
 xl > 1200px
 xxl > 1400px
+
+Javascript
+/////////////////
+
+Datatypes
+operations
+consolealert
+stringliteral
+let const
+math opt
+string opt
+--------------------
+if else
+array
+functions
+Rest
+loop
+storage
+spread
+
+DOM
+Calc
+coupon
+light dark
+geolocation with weather
+Api calling
+forms validation
