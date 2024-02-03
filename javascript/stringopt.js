@@ -12,7 +12,13 @@ city.slice(1)
 'onDoN'
 city.slice(2)
 'nDoN'
-city.slice(1,3)
+city.slice(1,3)var city = "lOnDOn"
+undefined
+city.toUpperCase()
+'LONDON'
+13Third-party cookie will be blocked. Learn more in the Issues tab.
+city.toLowerCase()
+'london'
 'on'
 city.slice(1,4)
 'onD'

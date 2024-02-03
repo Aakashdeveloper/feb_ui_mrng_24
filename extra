@@ -132,19 +132,21 @@ stringliteral
 let const
 math opt
 string opt
---------------------
 if else
 array
-functions
-Rest
-loop
-storage
 spread
-
+functions
+loop
+map filter
+Rest
+storage
 DOM
+--------------------
 Calc
 coupon
 light dark
 geolocation with weather
 Api calling
 forms validation
+
+
