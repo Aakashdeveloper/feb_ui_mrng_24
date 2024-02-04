@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <style>
+            #coupon{
+                height: 400px;
+                width: 300px;
+                background-color: olivedrab;
+                margin: auto;
+                visibility: hidden;
+            }
+        </style>
+        <script>
+            const show = () => {
+                document.getElementById('coupon').style.visibility = 'visible';
+            }
+            const closePop = () => {
+                document.getElementById('coupon').style.visibility = 'hidden';
+            }
+        </script>
+
+    </head>
+    <body>
+        <div id="coupon">
+            <button onclick="closePop()">Close</button>
+            <h1>This is Coupon window</h1>
+        </div>
+        <script>
+            window.onload = show()
+        </script>
+
+    </body>
+</html>
